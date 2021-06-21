@@ -1,0 +1,407 @@
+<resources>
+    <!-- do not translate -->
+
+
+    <string-array name="form.district.list.districts.values">
+        <item>ມ. ພູ​ວົງ</item>
+        <item>ມ. ສາ​ມະ​ຄີ​ໄຊ</item>
+        <item>ມ. ສະ​ໜາມ​ໄຊ</item>
+        <item>ມ. ສານ​ໄຊ</item>
+        <item>ມ. ໄຊ​ເສດ​ຖາ</item>
+        <item>ມ. ຫ້ວຍ​ຊາຍ</item>
+        <item>ມ. ເມິງ</item>
+        <item>ມ. ປາກ​ທາ</item>
+        <item>ມ. ຜາ​ອຸດົມ</item>
+        <item>ມ. ຕົ້ນ​ເຜີ້ງ</item>
+        <item>ມ. ບໍ​ລິ​ຄັນ</item>
+        <item>ມ. ຄຳ​ເກີດ</item>
+        <item>ມ. ປາກ​ກະ​ດິງ</item>
+        <item>ມ. ປາກ​ຊັນ</item>
+        <item>ມ. ທ່າ​ພະ​ບາດ</item>
+        <item>ມ. ວຽງ​ທອງ</item>
+        <item>ມ. ໄຊ​ຈຳ​ພອນ</item>
+        <item>ມ. ບາ​ຈຽງ</item>
+        <item>ມ. ຈຳ​ປາ​ສັກ</item>
+        <item>ມ. ໂຂງ</item>
+        <item>ມ. ມຸນ​ລະ​ປະ​ໂມກ</item>
+        <item>ມ. ​ປາກ​ເຊ</item>
+        <item>ມ. ປາກ​ຊ່ອງ</item>
+        <item>ມ. ປະ​ທຸມ​ພອນ</item>
+        <item>ມ. ໂພນ​ທອງ</item>
+        <item>ມ. ຊະ​ນະ​ສົມ​ບູນ</item>
+        <item>ມ. ​ສຸ​ຂຸ​ມາ</item>
+        <item>ມ. ແອດ</item>
+        <item>ມ. ຫົວ​ເມືອງ</item>
+        <item>ມ. ຮ້ຽມ</item>
+        <item>ມ. ກວັນ</item>
+        <item>ມ. ຊ່ອນ</item>
+        <item>ມ. ສົບ​ເບົາ</item>
+        <item>ມ. ວຽງ​ໄຊ</item>
+        <item>ມ. ຊຳ​ເໜືອ</item>
+        <item>ມ. ຊຳ​ໃຕ້</item>
+        <item>ມ. ຊຽງ​ຄໍ້</item>
+        <item>ມ. ບົວ​ລະ​ພາ</item>
+        <item>ມ. ຫິນ​ບູນ</item>
+        <item>ມ. ຄູນ​ຄຳ</item>
+        <item>ມ. ມະ​ຫາ​ໄຊ</item>
+        <item>ມ. ນາ​ກາຍ</item>
+        <item>ມ. ຍົມ​ມະ​ລາດ</item>
+        <item>ມ. ໜອງ​ບົກ</item>
+        <item>ມ. ທ່າ​ແຂກ</item>
+        <item>ມ. ໄຊ​ບົວ​ທອງ</item>
+        <item>ມ. ເຊບັ້ງ​ໄຟ</item>
+        <item>ມ. ລອງ</item>
+        <item>ມ. ນາ​ແລ</item>
+        <item>ມ. ນ້ຳ​ທາ</item>
+        <item>ມ. ສິງ</item>
+        <item>ມ. ວຽງ​ພູ​ຄາ</item>
+        <item>ມ. ຈອມ​ເພັດ</item>
+        <item>ມ. ຫຼວງ​ພະ​ບາງ</item>
+        <item>ມ. ນ້ຳ​ບາກ</item>
+        <item>ມ. ນານ</item>
+        <item>ມ. ງອຍ</item>
+        <item>ມ. ປາກ​ແຊງ</item>
+        <item>ມ. ປາກ​ອູ</item>
+        <item>ມ. ໂພນ​ໄຊ</item>
+        <item>ມ. ພູ​ຄູນ</item>
+        <item>ມ. ວຽງ​ຄຳ</item>
+        <item>ມ. ຊຽງ​ເງິນ</item>
+        <item>ມ. ​ແບ່ງ</item>
+        <item>ມ. ຮຸນ</item>
+        <item>ມ. ຫຼາ</item>
+        <item>ມ. ນາ​ໝໍ້</item>
+        <item>ມ. ງາ</item>
+        <item>ມ. ປາກ​ບ່ງ</item>
+        <item>ມ. ໄຊ</item>
+        <item>ມ. ​ບຸນ​ເໜືອ</item>
+        <item>ມ. ​ບຸນ​ໃຕ້</item>
+        <item>ມ. ຂວາ</item>
+        <item>ມ. ​ໃໝ່</item>
+        <item>ມ. ຍອດ​​ອູ</item>
+        <item>ມ. ຜົ້ງ​ສາ​ລີ</item>
+        <item>ມ. ສຳ​ພັນ</item>
+        <item>ມ. ຄົງ​ເຊ​ໂດນ</item>
+        <item>ມ. ​ລະ​ຄອນ​ເພັງ</item>
+        <item>ມ. ​ເລົ່າ​ງາ​ມ</item>
+        <item>ມ. ສະ​​ມ້ວຍ</item>
+        <item>ມ. ສາ​ລະ​ວັນ</item>
+        <item>ມ. ຕາໂອຍ</item>
+        <item>ມ. ຕຸ້ມ​ລານ</item>
+        <item>ມ. ​ວາ​ປີ</item>
+        <item>ມ. ອາດ​ສະ​ພັງ​ທອງ</item>
+        <item>ມ. ອາດ​ສະ​ພອນ</item>
+        <item>ມ. ຈຳພອນ</item>
+        <item>ມ. ໄກ​ສອນ​ພົມ​ວິ​ຫານ</item>
+        <item>ມ. ນອງ</item>
+        <item>ມ. ອຸ​ທຸມ​ພອນ</item>
+        <item>ມ. ພະ​ລານ​ໄຊ</item>
+        <item>ມ. ພີນ</item>
+        <item>ມ. ເຊ​ໂປນ</item>
+        <item>ມ. ສອງ​ຄອນ</item>
+        <item>ມ. ທ່າ​ປາງ​ທອງ</item>
+        <item>ມ. ວິ​ລະ​ບູ​ລີ</item>
+        <item>ມ. ໄຊ​ບູ​ລີ</item>
+        <item>ມ. ໄຊ​ພູ​ທອງ</item>
+        <item>ມ. ຊົນ​ບູ​ລີ</item>
+        <item>ມ. ດັກ​ຈຶງ</item>
+        <item>ມ. ກະ​ລຶມ</item>
+        <item>ມ. ລະ​ມາມ</item>
+        <item>ມ. ​ທ່າ​ແຕ່ງ</item>
+        <item>ມ. ຈັນ​ທະ​ບູ​ລີ</item>
+        <item>ມ. ຫາດ​ຊາຍ​ຟອງ</item>
+        <item>ມ. ປາກ​ງື່ມ</item>
+        <item>ມ. ນາ​ຊາຍ​ທອງ</item>
+        <item>ມ. ສັງ​ທອງ</item>
+        <item>ມ. ສີ​ໂຄດ​ຕະ​ບອງ</item>
+        <item>ມ. ສີ​ສັດ​ຕະ​ນາກ</item>
+        <item>ມ. ໄຊ​ທາ​ນີ</item>
+        <item>ມ. ເຟືອງ</item>
+        <item>ມ. ຫີນ​ເຫີບ</item>
+        <item>ມ. ກາ​ສີ</item>
+        <item>ມ. ແກ້ວ​ອຸ​ດົມ</item>
+        <item>ມ. ແມດ</item>
+        <item>ມ. ໝື່ນ</item>
+        <item>ມ. ​ໂພນ​ໂຮງ</item>
+        <item>ມ. ທຸ​ລະ​ຄົມ</item>
+        <item>ມ. ວັງ​ວຽງ</item>
+        <item>ມ. ວຽງ​ຄຳ</item>
+        <item>ມ. ​ຊະ​ນະ​ຄາມ</item>
+        <item>ມ. ບໍ່​ແຕນ</item>
+        <item>ມ. ຫົງ​ສາ</item>
+        <item>ມ. ແກ່ນ​ທ້າວ</item>
+        <item>ມ. ຄອບ</item>
+        <item>ມ. ເງິນ</item>
+        <item>ມ. ປາກ​ລາຍ</item>
+        <item>ມ. ​ພຽງ</item>
+        <item>ມ. ທົ່ງ​ມີ​ໄຊ</item>
+        <item>ມ. ໄຊ​ຍະ​ບູ​ລີ</item>
+        <item>ມ. ໄຊ​ສະ​ຖານ</item>
+        <item>ມ. ຊຽງ​ຮອນ</item>
+        <item>ມ. ອະ​ນຸ​ວົງ</item>
+        <item>ມ. ຮົ່ມ</item>
+        <item>ມ. ​ລ່ອງ​ແຈ້ງ</item>
+        <item>ມ. ລ້ອງ​ຊານ</item>
+        <item>ມ. ທ່າ​ໂທມ</item>
+        <item>ມ. ຄຳ</item>
+        <item>ມ. ຄູນ</item>
+        <item>ມ. ໝອກ​ໃໝ່</item>
+        <item>ມ. ​ໜອງ​ແຮດ</item>
+        <item>ມ. ແປກ</item>
+        <item>ມ. ຜາ​ໄຊ</item>
+        <item>ມ. ​ພູ​ກູດ</item>
+        <item>ຂ. ອັດຕະປື</item>
+        <item>ຂ. ບໍ່ແກ້ວ</item>
+    </string-array>
+
+    <!-- translate -->
+    <string name="app_name">Atlaos</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="fab_content_desc">submit new Song</string>
+    <!-- Theme -->
+    <string name="mandatory">* Required </string>
+    <!-- menu -->
+    <string name="menu_meta">Describe</string>
+    <string name="menu_add_picture">Add Picture</string>
+    <string name="menu_add_record">Record</string>
+    <string name="menu_set_location">Set Location</string>
+    <!-- fragments -->
+   <string name="fragment_picture_change_picture">change picture</string>
+   <string name="fragment_picture_add_picture">add picture</string>
+
+    <string name="fragment_upload_completed">Upload completed</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="delete_answer_file_question"> Remove Record</string>
+    <string name="answer_file_delete_warning">Are you sure you want to remove this record ?</string>
+    <string name="fragment_choose_choose">Choose Sound</string>
+    <string name="fragment_choose_record">Record Sound</string>
+    <string name="play_audio">Play Audio</string>
+    <string name="delete_answer_file">Delete</string>
+    <string name="pick_image_intent_text">Pick a photo</string>
+    <string name="error_gif"> Gif Error</string>
+    <string name="story_name">ຊື່ຂອງເລື່ອງ *</string>
+    <string name="artist">ຊື່ສິລະປິນ</string>
+    <string name="province">ແຂວງ</string>
+    <string name="district">ເມືອງ</string>
+    <string name="village">ບ້ານ</string>
+    <string name="type">ກະລຸນາເລືອກປະເພດ</string>
+    <string name="type_other">ກະລຸນາລະບຸອື່ນໃສ່ຂ້າງລູ່ມນີ້ (ພາສາລາວ)</string>
+
+    <string-array name="form.type.list.values">
+        <item>ເພງ</item>
+        <item>ນິທານ</item>
+        <item>ລ້ໍາ</item>
+        <item>ອື່ນໆ</item>
+    </string-array>
+
+    <string-array name="form.province.list.values">
+        <item>ມ. ອັດຕະປື</item>
+        <item>ມ. ບໍ່ແກ້ວ</item>
+        <item>ມ. ບໍລິຄຳໄຊ</item>
+        <item>ມ. ຈຳປາສັກ</item>
+        <item>ມ. ຫົວພັນ</item>
+        <item>ມ. ຄຳມ່ວນ</item>
+        <item>ມ. ຫຼວງນ້ຳທາ</item>
+        <item>ມ. ຫຼວງພະບາງ</item>
+        <item>ມ. ອຸດົມໄຊ</item>
+        <item>ມ. ຜົ້ງສາລີ</item>
+        <item>ມ. ສາລະວັນ</item>
+        <item>ມ. ສະຫວັນນະເຂດ</item>
+        <item>ມ. ເຊກອງ</item>
+        <item>ມ. ນະຄອນຫຼວງ ວຽງຈັນ</item>
+        <item>ມ. ວຽງຈັນ</item>
+        <item>ມ. ໄຊຍະບູລີ</item>
+        <item>ມ. ໄຊສົມບູນ</item>
+        <item>ມ. ຊຽງຂວາງ</item>
+    </string-array>
+    <string-array name="form.type.list.code">
+        <item>Music</item>
+        <item>Story</item>
+        <item>Lam</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="form.district.list.attapeu.values">
+        ​​<item>ມ. ພູ​ວົງ</item>
+        <item>ມ. ສາ​ມະ​ຄີ​ໄຊ</item>
+        <item>ມ. ສະ​ໜາມ​ໄຊ</item>
+        <item>ມ. ສານ​ໄຊ</item>
+        <item>ມ. ໄຊ​ເສດ​ຖາ</item>    </string-array>
+    <string-array name="form.district.list.bokeo.values">
+        <item>ມ. ຫ້ວຍ​ຊາຍ</item>
+        <item>ມ. ເມິງ</item>
+        <item>ມ. ປາກ​ທາ</item>
+        <item>ມ. ຜາ​ອຸດົມ</item>
+        <item>ມ. ຕົ້ນ​ເຜີ້ງ</item>    </string-array>
+    <string-array name="form.district.list.borikhamxay.values">
+        <item>ມ. ບໍ​ລິ​ຄັນ</item>
+        <item>ມ. ຄຳ​ເກີດ</item>
+        <item>ມ. ປາກ​ກະ​ດິງ</item>
+        <item>ມ. ປາກ​ຊັນ</item>
+        <item>ມ. ທ່າ​ພະ​ບາດ</item>
+        <item>ມ. ວຽງ​ທອງ</item>
+        <item>ມ. ໄຊ​ຈຳ​ພອນ</item>
+    </string-array>
+    <string-array name="form.district.list.champasack.values">
+        <item>ມ. ບາ​ຈຽງ</item>
+        <item>ມ. ຈຳ​ປາ​ສັກ</item>
+        <item>ມ. ໂຂງ</item>
+        <item>ມ. ມຸນ​ລະ​ປະ​ໂມກ</item>
+        <item>ມ. ​ປາກ​ເຊ</item>
+        <item>ມ. ປາກ​ຊ່ອງ</item>
+        <item>ມ. ປະ​ທຸມ​ພອນ</item>
+        <item>ມ. ໂພນ​ທອງ</item>
+        <item>ມ. ຊະ​ນະ​ສົມ​ບູນ</item>
+        <item>ມ. ​ສຸ​ຂຸ​ມາ</item>
+    </string-array>
+    <string-array name="form.district.list.huaphanh.values">
+        <item>ມ. ແອດ</item>
+        <item>ມ. ຫົວ​ເມືອງ</item>
+        <item>ມ. ຮ້ຽມ</item>
+        <item>ມ. ກວັນ</item>
+        <item>ມ. ຊ່ອນ</item>
+        <item>ມ. ສົບ​ເບົາ</item>
+        <item>ມ. ວຽງ​ໄຊ</item>
+        <item>ມ. ຊຳ​ເໜືອ</item>
+        <item>ມ. ຊຳ​ໃຕ້</item>
+        <item>ມ. ຊຽງ​ຄໍ້</item>
+    </string-array>
+    <string-array name="form.district.list.khammuane.values">
+        <item>ມ. ບົວ​ລະ​ພາ</item>
+        <item>ມ. ຫິນ​ບູນ</item>
+        <item>ມ. ຄູນ​ຄຳ</item>
+        <item>ມ. ມະ​ຫາ​ໄຊ</item>
+        <item>ມ. ນາ​ກາຍ</item>
+        <item>ມ. ຍົມ​ມະ​ລາດ</item>
+        <item>ມ. ໜອງ​ບົກ</item>
+        <item>ມ. ທ່າ​ແຂກ</item>
+        <item>ມ. ໄຊ​ບົວ​ທອງ</item>
+        <item>ມ. ເຊບັ້ງ​ໄຟ</item>
+    </string-array>
+    <string-array name="form.district.list.luangnamtha.values">
+        <item>ມ. ລອງ</item>
+        <item>ມ. ນາ​ແລ</item>
+        <item>ມ. ນ້ຳ​ທາ</item>
+        <item>ມ. ສິງ</item>
+        <item>ມ. ວຽງ​ພູ​ຄາ</item>
+        <item>ມ. ຈອມ​ເພັດ</item>
+    </string-array>
+    <string-array name="form.district.list.luangprabang.values">
+        <item>ມ. ຫຼວງ​ພະ​ບາງ</item>
+        <item>ມ. ນ້ຳ​ບາກ</item>
+        <item>ມ. ນານ</item>
+        <item>ມ. ງອຍ</item>
+        <item>ມ. ປາກ​ແຊງ</item>
+        <item>ມ. ປາກ​ອູ</item>
+        <item>ມ. ໂພນ​ໄຊ</item>
+        <item>ມ. ພູ​ຄູນ</item>
+        <item>ມ. ວຽງ​ຄຳ</item>
+        <item>ມ. ຊຽງ​ເງິນ</item>
+        <item>ມ. ​ແບ່ງ</item>
+    </string-array>
+    <string-array name="form.district.list.oudomxay.values">
+        <item>ມ. ຮຸນ</item>
+        <item>ມ. ຫຼາ</item>
+        <item>ມ. ນາ​ໝໍ້</item>
+        <item>ມ. ງາ</item>
+        <item>ມ. ປາກ​ບ່ງ</item>
+        <item>ມ. ໄຊ</item>
+        <item>ມ. ​ບຸນ​ເໜືອ</item>
+    </string-array>
+    <string-array name="form.district.list.phongsaly.values">
+        <item>ມ. ​ບຸນ​ໃຕ້</item>
+        <item>ມ. ຂວາ</item>
+        <item>ມ. ​ໃໝ່</item>
+        <item>ມ. ຍອດ​​ອູ</item>
+        <item>ມ. ຜົ້ງ​ສາ​ລີ</item>
+        <item>ມ. ສຳ​ພັນ</item>
+        <item>ມ. ຄົງ​ເຊ​ໂດນ</item>
+    </string-array>
+    <string-array name="form.district.list.saravane.values">
+        <item>ມ. ​ລະ​ຄອນ​ເພັງ</item>
+        <item>ມ. ​ເລົ່າ​ງາ​ມ</item>
+        <item>ມ. ສະ​​ມ້ວຍ</item>
+        <item>ມ. ສາ​ລະ​ວັນ</item>
+        <item>ມ. ຕາໂອຍ</item>
+        <item>ມ. ຕຸ້ມ​ລານ</item>
+        <item>ມ. ​ວາ​ປີ</item>
+        <item>ມ. ອາດ​ສະ​ພັງ​ທອງ</item>
+    </string-array>
+    <string-array name="form.district.list.savanakhet.values">
+        <item>ມ. ອາດ​ສະ​ພອນ</item>
+        <item>ມ. ຈຳພອນ</item>
+        <item>ມ. ໄກ​ສອນ​ພົມ​ວິ​ຫານ</item>
+        <item>ມ. ນອງ</item>
+        <item>ມ. ອຸ​ທຸມ​ພອນ</item>
+        <item>ມ. ພະ​ລານ​ໄຊ</item>
+        <item>ມ. ພີນ</item>
+        <item>ມ. ເຊ​ໂປນ</item>
+        <item>ມ. ສອງ​ຄອນ</item>
+        <item>ມ. ທ່າ​ປາງ​ທອງ</item>
+        <item>ມ. ວິ​ລະ​ບູ​ລີ</item>
+        <item>ມ. ໄຊ​ບູ​ລີ</item>
+        <item>ມ. ໄຊ​ພູ​ທອງ</item>
+        <item>ມ. ຊົນ​ບູ​ລີ</item>
+        <item>ມ. ດັກ​ຈຶງ</item>
+    </string-array>
+    <string-array name="form.district.list.sekong.values">
+        <item>ມ. ກະ​ລຶມ</item>
+        <item>ມ. ລະ​ມາມ</item>
+        <item>ມ. ​ທ່າ​ແຕ່ງ</item>
+        <item>ມ. ຈັນ​ທະ​ບູ​ລີ</item>
+    </string-array>
+    <string-array name="form.district.list.vientianecapital.values">
+        <item>ມ. ຫາດ​ຊາຍ​ຟອງ</item>
+        <item>ມ. ປາກ​ງື່ມ</item>
+        <item>ມ. ນາ​ຊາຍ​ທອງ</item>
+        <item>ມ. ສັງ​ທອງ</item>
+        <item>ມ. ສີ​ໂຄດ​ຕະ​ບອງ</item>
+        <item>ມ. ສີ​ສັດ​ຕະ​ນາກ</item>
+        <item>ມ. ໄຊ​ທາ​ນີ</item>
+        <item>ມ. ເຟືອງ</item>
+        <item>ມ. ຫີນ​ເຫີບ</item>
+    </string-array>
+    <string-array name="form.district.list.vientianeprovince.values">
+        <item>ມ. ກາ​ສີ</item>
+        <item>ມ. ແກ້ວ​ອຸ​ດົມ</item>
+        <item>ມ. ແມດ</item>
+        <item>ມ. ໝື່ນ</item>
+        <item>ມ. ​ໂພນ​ໂຮງ</item>
+        <item>ມ. ທຸ​ລະ​ຄົມ</item>
+        <item>ມ. ວັງ​ວຽງ</item>
+        <item>ມ. ວຽງ​ຄຳ</item>
+        <item>ມ. ​ຊະ​ນະ​ຄາມ</item>
+        <item>ມ. ບໍ່​ແຕນ</item>
+        <item>ມ. ຫົງ​ສາ</item>
+    </string-array>
+    <string-array name="form.district.list.xayaboury.values">
+        <item>ມ. ແກ່ນ​ທ້າວ</item>
+        <item>ມ. ຄອບ</item>
+        <item>ມ. ເງິນ</item>
+        <item>ມ. ປາກ​ລາຍ</item>
+        <item>ມ. ​ພຽງ</item>
+        <item>ມ. ທົ່ງ​ມີ​ໄຊ</item>
+        <item>ມ. ໄຊ​ຍະ​ບູ​ລີ</item>
+        <item>ມ. ໄຊ​ສະ​ຖານ</item>
+        <item>ມ. ຊຽງ​ຮອນ</item>
+        <item>ມ. ອະ​ນຸ​ວົງ</item>
+        <item>ມ. ຮົ່ມ</item>
+    </string-array>
+    <string-array name="form.district.list.xaysomboune.values">
+        <item>ມ. ​ລ່ອງ​ແຈ້ງ</item>
+        <item>ມ. ລ້ອງ​ຊານ</item>
+        <item>ມ. ທ່າ​ໂທມ</item>
+        <item>ມ. ຄຳ</item>
+        <item>ມ. ຄູນ</item>
+    </string-array>
+    <string-array name="form.district.list.xienkhuang.values">
+        <item>ມ. ໝອກ​ໃໝ່</item>
+        <item>ມ. ​ໜອງ​ແຮດ</item>
+        <item>ມ. ແປກ</item>
+        <item>ມ. ຜາ​ໄຊ</item>
+        <item>ມ. ​ພູ​ກູດ</item>
+        <item>ຂ. ອັດຕະປື</item>
+        <item>ຂ. ບໍ່ແກ້ວ</item>
+    </string-array>
+
+
+</resources>

@@ -1,0 +1,602 @@
+<resources>
+    <!-- do not translate -->
+
+    <string name="drive_folder_img_id" translatable="false">16In6928JlNz98lNwdWGWD97bPsBibsFJ</string>
+    <string name="drive_folder_record_id" translatable="false">1wDqaWcmmz53zBRxNnbAlw13WB7N3BQCE</string>
+    <string name="server_client_id" translatable="false">196408247534-eltv7iojlki38fa2i76qa5j60rtsnc5c.apps.googleusercontent.com</string>
+    <string-array name="form.type.list.code">
+        <item>Music</item>
+        <item>Story</item>
+        <item>Lam</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="form.province.list.code">
+        <item>Attapeu</item>
+        <item>Bokeo</item>
+        <item>Borikhamxay</item>
+        <item>Champasack</item>
+        <item>Huaphanh</item>
+        <item>Khammuane</item>
+        <item>Luangnamtha</item>
+        <item>Luangprabang</item>
+        <item>Oudomxay</item>
+        <item>Phongsaly</item>
+        <item>Saravane</item>
+        <item>Savanakhet</item>
+        <item>Sekong</item>
+        <item>Vientiane Capital</item>
+        <item>Vientiane Province</item>
+        <item>Xayaboury</item>
+        <item>Xaysomboune</item>
+        <item>Xienkhuang</item>
+    </string-array>
+
+    <string-array name="form.district.list.districts.codes">
+        <item>Phouvong</item>
+        <item>Samakkhixay</item>
+        <item>Sanamxay</item>
+        <item>Sanxay</item>
+        <item>Xaysetha</item>
+        <item>Huoixai</item>
+        <item>Meung</item>
+        <item>Paktha</item>
+        <item>Phaoudom</item>
+        <item>Tonpheung</item>
+        <item>Bolikhanh</item>
+        <item>Khamkeuth</item>
+        <item>Pakkading</item>
+        <item>Pakxane</item>
+        <item>Thaphabath</item>
+        <item>Viengthong</item>
+        <item>Xaychamphone</item>
+        <item>Bachiangchaleunsook</item>
+        <item>Champasack</item>
+        <item>Khong</item>
+        <item>Moonlapamok</item>
+        <item>Pakse</item>
+        <item>Paksxong</item>
+        <item>Pathoomphone</item>
+        <item>Phonthong</item>
+        <item>Sanasomboon</item>
+        <item>Sukhuma</item>
+        <item>Add</item>
+        <item>Huameuang</item>
+        <item>Huim</item>
+        <item>Kuane</item>
+        <item>Sone</item>
+        <item>Sopbao</item>
+        <item>Viengxay</item>
+        <item>Xamneua</item>
+        <item>Xamtay</item>
+        <item>Xiengkhor</item>
+        <item>Bualapha</item>
+        <item>Hinboon</item>
+        <item>Khounkham</item>
+        <item>Mahaxay</item>
+        <item>Nakai</item>
+        <item>Nhommalath</item>
+        <item>Nongbok</item>
+        <item>Thakhek</item>
+        <item>Xaybuathong</item>
+        <item>Xebangfay</item>
+        <item>Long</item>
+        <item>Nalae</item>
+        <item>Namtha</item>
+        <item>Sing</item>
+        <item>Viengphoukha</item>
+        <item>Chomphet</item>
+        <item>Luangprabang</item>
+        <item>Nambak</item>
+        <item>Nan</item>
+        <item>Ngoi</item>
+        <item>Pakxeng</item>
+        <item>Parkou</item>
+        <item>Phonthong</item>
+        <item>Phonxay</item>
+        <item>Phoukhoune</item>
+        <item>Viengkham</item>
+        <item>Xiengngeun</item>
+        <item>Beng</item>
+        <item>Hoon</item>
+        <item>La</item>
+        <item>Namor</item>
+        <item>Nga</item>
+        <item>Pakbeng</item>
+        <item>Xay</item>
+        <item>Boonneua</item>
+        <item>Boontai</item>
+        <item>Khua</item>
+        <item>May</item>
+        <item>Nhotou</item>
+        <item>Phongsaly</item>
+        <item>Samphanh</item>
+        <item>Khongxedone</item>
+        <item>Lakhonepheng</item>
+        <item>Laongarm</item>
+        <item>Samuoi</item>
+        <item>Saravane</item>
+        <item>Taoi</item>
+        <item>Toomlarn</item>
+        <item>Vapy</item>
+        <item>Atsaphangthong</item>
+        <item>Atsaphone</item>
+        <item>Champhone</item>
+        <item>KaysonePhomvihane</item>
+        <item>Nong</item>
+        <item>Outhoomphone</item>
+        <item>Phalanxay</item>
+        <item>Phine</item>
+        <item>Sepone</item>
+        <item>Songkhone</item>
+        <item>Thapangthong</item>
+        <item>Vilabuly</item>
+        <item>Xaybuly</item>
+        <item>Xayphoothong</item>
+        <item>Xonbuly</item>
+        <item>Dakcheung</item>
+        <item>Kaleum</item>
+        <item>Lamarm</item>
+        <item>Thateng</item>
+        <item>Chanthabuly</item>
+        <item>Hadxaifong</item>
+        <item>Mayparkngum</item>
+        <item>Naxaithong</item>
+        <item>Sangthong</item>
+        <item>Sikhottabong</item>
+        <item>Sisattanak</item>
+        <item>Xaysetha</item>
+        <item>Xaythany</item>
+        <item>Feuang</item>
+        <item>Hinherb</item>
+        <item>Kasy</item>
+        <item>Keooudom</item>
+        <item>Mad</item>
+        <item>Meun</item>
+        <item>Phonhong</item>
+        <item>Thoulakhom</item>
+        <item>Vangvieng</item>
+        <item>viengkham</item>
+        <item>Xanakharm</item>
+        <item>Botene</item>
+        <item>Hongsa</item>
+        <item>Kenethao</item>
+        <item>Khop</item>
+        <item>Ngeun</item>
+        <item>Parklai</item>
+        <item>Phiang</item>
+        <item>Thongmyxay</item>
+        <item>Xayabury</item>
+        <item>Xaysathan</item>
+        <item>Xienghone</item>
+        <item>Anouvong</item>
+        <item>Home</item>
+        <item>Longcheng</item>
+        <item>Longsane</item>
+        <item>Thathom</item>
+        <item>Kham</item>
+        <item>Khoune</item>
+        <item>Morkmay</item>
+        <item>Nonghed</item>
+        <item>Pek</item>
+        <item>Phaxay</item>
+        <item>Phoukoud</item>
+    </string-array>
+    <!-- translate -->
+    <string name="app_name">Atlaos</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="fab_content_desc">submit new Song</string>
+    <!-- Theme -->
+    <string name="mandatory">* Required </string>
+    <!-- menu -->
+    <string name="menu_meta">Describe</string>
+    <string name="menu_add_picture">Add Picture</string>
+    <string name="menu_add_record">Record</string>
+    <string name="menu_set_location">Set Location</string>
+    <!-- fragments -->
+   <string name="fragment_picture_change_picture">change picture</string>
+   <string name="fragment_picture_add_picture">add picture</string>
+
+    <string name="fragment_upload_completed">Upload completed</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="delete_answer_file_question"> Remove Record</string>
+    <string name="answer_file_delete_warning">Are you sure you want to remove this record ?</string>
+    <string name="fragment_choose_choose">Choose Sound</string>
+    <string name="fragment_choose_record">Record Sound</string>
+    <string name="play_audio">Play Audio</string>
+    <string name="delete_answer_file">Delete</string>
+    <string name="pick_image_intent_text">Pick a photo</string>
+    <string name="error_gif"> Gif Error</string>
+    <string-array name="form.district.list.districts.values">
+        <item>Phouvong</item>
+        <item>Samakkhixay</item>
+        <item>Sanamxay</item>
+        <item>Sanxay</item>
+        <item>Xaysetha</item>
+        <item>Huoixai</item>
+        <item>Meung</item>
+        <item>Paktha</item>
+        <item>Phaoudom</item>
+        <item>Tonpheung</item>
+        <item>Bolikhanh</item>
+        <item>Khamkeuth</item>
+        <item>Pakkading</item>
+        <item>Pakxane</item>
+        <item>Thaphabath</item>
+        <item>Viengthong</item>
+        <item>Xaychamphone</item>
+        <item>Bachiangchaleunsook</item>
+        <item>Champasack</item>
+        <item>Khong</item>
+        <item>Moonlapamok</item>
+        <item>Pakse</item>
+        <item>Paksxong</item>
+        <item>Pathoomphone</item>
+        <item>Phonthong</item>
+        <item>Sanasomboon</item>
+        <item>Sukhuma</item>
+        <item>Add</item>
+        <item>Huameuang</item>
+        <item>Huim</item>
+        <item>Kuane</item>
+        <item>Sone</item>
+        <item>Sopbao</item>
+        <item>Viengxay</item>
+        <item>Xamneua</item>
+        <item>Xamtay</item>
+        <item>Xiengkhor</item>
+        <item>Bualapha</item>
+        <item>Hinboon</item>
+        <item>Khounkham</item>
+        <item>Mahaxay</item>
+        <item>Nakai</item>
+        <item>Nhommalath</item>
+        <item>Nongbok</item>
+        <item>Thakhek</item>
+        <item>Xaybuathong</item>
+        <item>Xebangfay</item>
+        <item>Long</item>
+        <item>Nalae</item>
+        <item>Namtha</item>
+        <item>Sing</item>
+        <item>Viengphoukha</item>
+        <item>Chomphet</item>
+        <item>Luangprabang</item>
+        <item>Nambak</item>
+        <item>Nan</item>
+        <item>Ngoi</item>
+        <item>Pakxeng</item>
+        <item>Parkou</item>
+        <item>Phonthong</item>
+        <item>Phonxay</item>
+        <item>Phoukhoune</item>
+        <item>Viengkham</item>
+        <item>Xiengngeun</item>
+        <item>Beng</item>
+        <item>Hoon</item>
+        <item>La</item>
+        <item>Namor</item>
+        <item>Nga</item>
+        <item>Pakbeng</item>
+        <item>Xay</item>
+        <item>Boonneua</item>
+        <item>Boontai</item>
+        <item>Khua</item>
+        <item>May</item>
+        <item>Nhotou</item>
+        <item>Phongsaly</item>
+        <item>Samphanh</item>
+        <item>Khongxedone</item>
+        <item>Lakhonepheng</item>
+        <item>Laongarm</item>
+        <item>Samuoi</item>
+        <item>Saravane</item>
+        <item>Taoi</item>
+        <item>Toomlarn</item>
+        <item>Vapy</item>
+        <item>Atsaphangthong</item>
+        <item>Atsaphone</item>
+        <item>Champhone</item>
+        <item>KaysonePhomvihane</item>
+        <item>Nong</item>
+        <item>Outhoomphone</item>
+        <item>Phalanxay</item>
+        <item>Phine</item>
+        <item>Sepone</item>
+        <item>Songkhone</item>
+        <item>Thapangthong</item>
+        <item>Vilabuly</item>
+        <item>Xaybuly</item>
+        <item>Xayphoothong</item>
+        <item>Xonbuly</item>
+        <item>Dakcheung</item>
+        <item>Kaleum</item>
+        <item>Lamarm</item>
+        <item>Thateng</item>
+        <item>Chanthabuly</item>
+        <item>Hadxaifong</item>
+        <item>Mayparkngum</item>
+        <item>Naxaithong</item>
+        <item>Sangthong</item>
+        <item>Sikhottabong</item>
+        <item>Sisattanak</item>
+        <item>Xaysetha</item>
+        <item>Xaythany</item>
+        <item>Feuang</item>
+        <item>Hinherb</item>
+        <item>Kasy</item>
+        <item>Keooudom</item>
+        <item>Mad</item>
+        <item>Meun</item>
+        <item>Phonhong</item>
+        <item>Thoulakhom</item>
+        <item>Vangvieng</item>
+        <item>viengkham</item>
+        <item>Xanakharm</item>
+        <item>Botene</item>
+        <item>Hongsa</item>
+        <item>Kenethao</item>
+        <item>Khop</item>
+        <item>Ngeun</item>
+        <item>Parklai</item>
+        <item>Phiang</item>
+        <item>Thongmyxay</item>
+        <item>Xayabury</item>
+        <item>Xaysathan</item>
+        <item>Xienghone</item>
+        <item>Anouvong</item>
+        <item>Home</item>
+        <item>Longcheng</item>
+        <item>Longsane</item>
+        <item>Thathom</item>
+        <item>Kham</item>
+        <item>Khoune</item>
+        <item>Morkmay</item>
+        <item>Nonghed</item>
+        <item>Pek</item>
+        <item>Phaxay</item>
+        <item>Phoukoud</item>
+    </string-array>
+    <string-array name="form.province.list.values">
+        <item>Attapeu</item>
+        <item>Bokeo</item>
+        <item>Borikhamxay</item>
+        <item>Champasack</item>
+        <item>Huaphanh</item>
+        <item>Khammuane</item>
+        <item>Luangnamtha</item>
+        <item>Luangprabang</item>
+        <item>Oudomxay</item>
+        <item>Phongsaly</item>
+        <item>Saravane</item>
+        <item>Savanakhet</item>
+        <item>Sekong</item>
+        <item>Vientiane Capital</item>
+        <item>Vientiane Province</item>
+        <item>Xayaboury</item>
+        <item>Xaysomboune</item>
+        <item>Xienkhuang</item>
+    </string-array>
+
+    <string-array name="form.type.list.values">
+        <item>Music</item>
+        <item>Story</item>
+        <item>Lam</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="form.district.list.attapeu.values">
+        <item>Phouvong</item>
+        <item>Samakkhixay</item>
+        <item>Sanamxay</item>
+        <item>Sanxay</item>
+        <item>Xaysetha</item>
+    </string-array>
+    <string-array name="form.district.list.bokeo.values">
+        <item>Huoixai</item>
+        <item>Meung</item>
+        <item>Paktha</item>
+        <item>Phaoudom</item>
+        <item>Tonpheung</item>
+    </string-array>
+    <string-array name="form.district.list.borikhamxay.values">
+        <item>Bolikhanh</item>
+        <item>Khamkeuth</item>
+        <item>Pakkading</item>
+        <item>Pakxane</item>
+        <item>Thaphabath</item>
+        <item>Viengthong</item>
+        <item>Xaychamphone</item>
+    </string-array>
+    <string-array name="form.district.list.champasack.values">
+        <item>Bachiangchaleunsook</item>
+        <item>Champasack</item>
+        <item>Khong</item>
+        <item>Moonlapamok</item>
+        <item>Pakse</item>
+        <item>Paksxong</item>
+        <item>Pathoomphone</item>
+        <item>Phonthong</item>
+        <item>Sanasomboon</item>
+        <item>Sukhuma</item>
+    </string-array>
+    <string-array name="form.district.list.huaphanh.values">
+        <item>Add</item>
+        <item>Huameuang</item>
+        <item>Huim</item>
+        <item>Kuane</item>
+        <item>Sone</item>
+        <item>Sopbao</item>
+        <item>Viengxay</item>
+        <item>Xamneua</item>
+        <item>Xamtay</item>
+        <item>Xiengkhor</item>
+    </string-array>
+    <string-array name="form.district.list.khammuane.values">
+        <item>Bualapha</item>
+        <item>Hinboon</item>
+        <item>Khounkham</item>
+        <item>Mahaxay</item>
+        <item>Nakai</item>
+        <item>Nhommalath</item>
+        <item>Nongbok</item>
+        <item>Thakhek</item>
+        <item>Xaybuathong</item>
+        <item>Xebangfay</item>
+    </string-array>
+    <string-array name="form.district.list.luangnamtha.values">
+        <item>Long</item>
+        <item>Nalae</item>
+        <item>Namtha</item>
+        <item>Sing</item>
+        <item>Viengphoukha</item>
+        <item>Chomphet</item>
+    </string-array>
+    <string-array name="form.district.list.luangprabang.values">
+        <item>Luangprabang</item>
+        <item>Nambak</item>
+        <item>Nan</item>
+        <item>Ngoi</item>
+        <item>Pakxeng</item>
+        <item>Parkou</item>
+        <item>Phonthong</item>
+        <item>Phonxay</item>
+        <item>Phoukhoune</item>
+        <item>Viengkham</item>
+        <item>Xiengngeun</item>
+    </string-array>
+    <string-array name="form.district.list.oudomxay.values">
+        <item>Beng</item>
+        <item>Hoon</item>
+        <item>La</item>
+        <item>Namor</item>
+        <item>Nga</item>
+        <item>Pakbeng</item>
+        <item>Xay</item>
+    </string-array>
+    <string-array name="form.district.list.phongsaly.values">
+        <item>Boonneua</item>
+        <item>Boontai</item>
+        <item>Khua</item>
+        <item>May</item>
+        <item>Nhotou</item>
+        <item>Phongsaly</item>
+        <item>Samphanh</item>
+    </string-array>
+    <string-array name="form.district.list.saravane.values">
+        <item>Khongxedone</item>
+        <item>Lakhonepheng</item>
+        <item>Laongarm</item>
+        <item>Samuoi</item>
+        <item>Saravane</item>
+        <item>Taoi</item>
+        <item>Toomlarn</item>
+        <item>Vapy</item>
+    </string-array>
+    <string-array name="form.district.list.savanakhet.values">
+        <item>Atsaphangthong</item>
+        <item>Atsaphone</item>
+        <item>Champhone</item>
+        <item>KaysonePhomvihane</item>
+        <item>Nong</item>
+        <item>Outhoomphone</item>
+        <item>Phalanxay</item>
+        <item>Phine</item>
+        <item>Sepone</item>
+        <item>Songkhone</item>
+        <item>Thapangthong</item>
+        <item>Vilabuly</item>
+        <item>Xaybuly</item>
+        <item>Xayphoothong</item>
+        <item>Xonbuly</item>
+    </string-array>
+    <string-array name="form.district.list.sekong.values">
+        <item>Dakcheung</item>
+        <item>Kaleum</item>
+        <item>Lamarm</item>
+        <item>Thateng</item>
+    </string-array>
+    <string-array name="form.district.list.vientianecapital.values">
+        <item>Chanthabuly</item>
+        <item>Hadxaifong</item>
+        <item>Mayparkngum</item>
+        <item>Naxaithong</item>
+        <item>Sangthong</item>
+        <item>Sikhottabong</item>
+        <item>Sisattanak</item>
+        <item>Xaysetha</item>
+        <item>Xaythany</item>
+    </string-array>
+    <string-array name="form.district.list.vientianeprovince.values">
+        <item>Feuang</item>
+        <item>Hinherb</item>
+        <item>Kasy</item>
+        <item>Keooudom</item>
+        <item>Mad</item>
+        <item>Meun</item>
+        <item>Phonhong</item>
+        <item>Thoulakhom</item>
+        <item>Vangvieng</item>
+        <item>viengkham</item>
+        <item>Xanakharm</item>
+    </string-array>
+    <string-array name="form.district.list.xayaboury.values">
+        <item>Botene</item>
+        <item>Hongsa</item>
+        <item>Kenethao</item>
+        <item>Khop</item>
+        <item>Ngeun</item>
+        <item>Parklai</item>
+        <item>Phiang</item>
+        <item>Thongmyxay</item>
+        <item>Xayabury</item>
+        <item>Xaysathan</item>
+        <item>Xienghone</item>
+    </string-array>
+    <string-array name="form.district.list.xaysomboune.values">
+        <item>Anouvong</item>
+        <item>Home</item>
+        <item>Longcheng</item>
+        <item>Longsane</item>
+        <item>Thathom</item>
+    </string-array>
+    <string-array name="form.district.list.xienkhuang.values">
+        <item>Kham</item>
+        <item>Khoune</item>
+        <item>Morkmay</item>
+        <item>Nonghed</item>
+        <item>Pek</item>
+        <item>Phaxay</item>
+        <item>Phoukoud</item>
+    </string-array>
+<!--
+    <string name="form.list.province.attapeu">Attapeu</string>
+    <string name="form.list.province.bokeo">Bokeo</string>
+    <string name="form.list.province.borikhamxay">Borikhamxay</string>
+    <string name="form.list.province.champasack">Champasack</string>
+    <string name="form.list.province.huaphanh">Huaphanh</string>
+    <string name="form.list.province.khammuane">Khammuane</string>
+    <string name="form.list.province.luangnamtha">Luangnamtha</string>
+    <string name="form.list.province.luangprabang">Luangprabang</string>
+    <string name="form.list.province.oudomxay">Oudomxay</string>
+    <string name="form.list.province.phongsaly">Phongsaly</string>
+    <string name="form.list.province.saravane">Saravane</string>
+    <string name="form.list.province.savanakhet">Savanakhet</string>
+    <string name="form.list.province.sekong">Sekong</string>
+    <string name="form.list.province.vientianecapital">Vientiane Capital</string>
+    <string name="form.list.province.vientianeprovince">Vientiane Province</string>
+    <string name="form.list.province.xayaboury">Xayaboury</string>
+    <string name="form.list.province.xaysomboune">Xaysomboune</string>
+    <string name="form.list.province.xienkhuang">Xienkhuang</string>
+    <string name="form.list.code.music">Music</string>
+    <string name="form.list.code.story">Story</string>
+    <string name="form.list.code.Lam">Lam</string>
+    <string name="form.list.code.Other">Other</string>
+-->
+    <string name="story_name">Story name *</string>
+    <string name="artist">Artist</string>
+    <string name="province">Province</string>
+    <string name="district">District</string>
+    <string name="village">Village</string>
+    <string name="type">Type</string>
+    <string name="type_other">type(Other)</string>
+</resources>
